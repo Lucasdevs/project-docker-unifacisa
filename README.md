@@ -17,4 +17,4 @@ Toda a infraestrutura é orquestrada com **Docker Compose**.
 ### 1. Clonar o repositório
 ```bash
 git clone https://github.com/Lucasdevs/project-docker-unifacisa.git
-cd seu-repo
+cd project-docker-unifacisa
